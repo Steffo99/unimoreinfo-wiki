@@ -1,5 +1,12 @@
 # Scaricare le lezioni
 
+## 3. Sistemi operativi
+
+Puoi scaricare le lezioni di Sistemi operativi direttamente da Google Drive:
+
+1. Fai `Tasto destro` sul file
+2. Premi `Scarica`
+
 ## 5. Gestione dell'informazione
 
 Puoi scaricare le lezioni di Gestione dell'informazione con [bbbdl](https://github.com/Steffo99/bbbdl):
