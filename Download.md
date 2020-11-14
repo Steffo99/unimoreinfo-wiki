@@ -1,5 +1,13 @@
 # Scaricare le lezioni
 
+## 3. Programmazione ad oggetti
+
+Puoi scaricare le lezioni di Programmazione ad oggetti con [bbbdl](https://github.com/Steffo99/bbbdl):
+
+```bash
+bbbdl sync -r https://raw.githubusercontent.com/Steffo99/unimoreinfo-wiki/main/programmazioneadoggetti.json
+```
+
 ## 3. Sistemi operativi
 
 Puoi scaricare le lezioni di Sistemi operativi direttamente da Google Drive:
